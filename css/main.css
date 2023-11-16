@@ -1,0 +1,123 @@
+body {
+    background-color: tan;
+    margin: 20px;
+}
+
+#frame {
+    background-color: chocolate;
+    width: 74%;
+    height: 800px;
+    margin: 10px auto;
+    padding: 0px;
+}
+
+
+#header {
+    background-color: rgb(red, green, rgb(207,134,74));
+    width: 74%;
+    height: 80px;
+    margin: 10px auto;
+    border: solid 2px #ffffff;
+}
+
+#header p{
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center;
+    color: darkorange;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+#inner {
+    width: auto;
+    margin: auto;
+    height: 725px;
+    padding: 2px;
+    border: 1px solid black;
+}
+
+#linkbox {
+    background-color: rgb(red, green, rgb(207,134,74));
+    float: left;
+    padding-left: 0px;
+    margin-right: 2px;
+    width: 250px;
+    height: 725px;
+    font-size: 24px;
+    font-family: sans-serif;
+    border: 2px;
+}
+
+#maincontent {
+    background-color: orangered;
+    float: left;
+    color: #ffffff;
+    font-size: 14px;
+    font-family: sans-serif;
+    border: 1px;
+    width: 817px;
+    height: 725px;
+    padding-left: 3px;
+}
+
+#footer {
+    background-color: black;
+    color: orangered;
+    float: left;
+    width: 1082px;
+    height: 68px;
+    font-size: 24px;
+    font-family: sans-serif;
+    border: solid 1px;
+}
+
+#ceobox {
+    word-wrap: normal;
+    width: 260px;
+    height: 182px;
+    border: 2px solid brown;
+    float: left;
+    margin-right: 5px;
+}
+
+#aboutframe1 {
+    width: 655px;
+    height: 348px;
+    float: left;
+    padding: 5px;
+    
+}
+
+#aboutframe1 p{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 15px;
+    font-size: 12px;
+    text-align: justify;
+    color: white;
+}
+
+#aboutframe2{
+    width: 655px;
+    height: 356px;
+    float: left;
+    padding: 5px;
+}
+
+#abooutframe2 h3{
+    font-family: sans-serif;
+    color: white;
+}
+
+#aboutframe2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 15px;
+    font-size: 12px;
+    text-align: justify;
+    color: firebrick;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
